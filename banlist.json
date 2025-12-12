@@ -1,7 +1,123 @@
 
-{
-  "banned_uids": [
-    "123456789",
-    "987654321"
-  ]
-}
+[
+  {
+    "uid": "2793303451",
+    "expiry_date": "2026-01-05",
+    "comment": "Not Provided",
+    "added_date": "2025-12-06"
+  },
+  {
+    "uid": "14049673395",
+    "expiry_date": "2026-01-05",
+    "comment": "Not Provided",
+    "added_date": "2025-12-06"
+  },
+  {
+    "uid": "9718046312",
+    "expiry_date": "2026-01-06",
+    "comment": "Not Provided",
+    "added_date": "2025-12-07"
+  },
+  {
+    "uid": "11725495473",
+    "expiry_date": "2026-01-06",
+    "comment": "Not Provided",
+    "added_date": "2025-12-07"
+  },
+  {
+    "uid": "3657981680",
+    "expiry_date": "2026-01-06",
+    "comment": "Not Provided",
+    "added_date": "2025-12-07"
+  },
+  {
+    "uid": "1778352084",
+    "expiry_date": "2026-01-06",
+    "comment": "Not Provided",
+    "added_date": "2025-12-07"
+  },
+  {
+    "uid": "4023839234",
+    "expiry_date": "2025-12-22",
+    "comment": "Not Provided",
+    "added_date": "2025-12-07"
+  },
+  {
+    "uid": "11417437979",
+    "expiry_date": "2026-01-07",
+    "comment": "Not Provided",
+    "added_date": "2025-12-08"
+  },
+  {
+    "uid": "14062588326",
+    "expiry_date": "2026-01-07",
+    "comment": "Not Provided",
+    "added_date": "2025-12-08"
+  },
+  {
+    "uid": "4131396991",
+    "expiry_date": "2025-12-23",
+    "comment": "Not Provided",
+    "added_date": "2025-12-08"
+  },
+  {
+    "uid": "13983972642",
+    "expiry_date": "2026-01-08",
+    "comment": "Not Provided",
+    "added_date": "2025-12-09"
+  },
+  {
+    "uid": "13008419632",
+    "expiry_date": "2026-01-08",
+    "comment": "Not Provided",
+    "added_date": "2025-12-09"
+  },
+  {
+    "uid": "13582377336",
+    "expiry_date": "2026-01-08",
+    "comment": "Not Provided",
+    "added_date": "2025-12-09"
+  },
+  {
+    "uid": "2233628465",
+    "expiry_date": "2026-01-08",
+    "comment": "Not Provided",
+    "added_date": "2025-12-09"
+  },
+  {
+    "uid": "8231081671",
+    "expiry_date": "2026-01-08",
+    "comment": "Not Provided",
+    "added_date": "2025-12-09"
+  },
+  {
+    "uid": "12415915921",
+    "expiry_date": "2025-12-24",
+    "comment": "Not Provided",
+    "added_date": "2025-12-09"
+  },
+  {
+    "uid": "3991822351",
+    "expiry_date": "2025-12-17",
+    "comment": "Not Provided",
+    "added_date": "2025-12-12"
+  },
+  {
+    "uid": "14081518114",
+    "expiry_date": "2026-01-11",
+    "comment": "TEST ID | XENON",
+    "added_date": "2025-12-12"
+  },
+  {
+    "uid": "14062635589",
+    "expiry_date": "2025-12-13",
+    "comment": "Not Provided",
+    "added_date": "2025-12-12"
+  },
+  {
+    "uid": "1889254130",
+    "expiry_date": "2025-12-15",
+    "comment": "Not Provided",
+    "added_date": "2025-12-12"
+  }
+]
